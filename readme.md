@@ -92,7 +92,7 @@ This project is open-source and available under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Mohammad Dhilawala**
 
 * GitHub: https://github.com/mohdhi5253
 
