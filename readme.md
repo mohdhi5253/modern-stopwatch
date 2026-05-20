@@ -65,7 +65,7 @@ Simply open the `index.html` file in your browser.
 
 ## 🌐 Live Demo
 
-http://127.0.0.1:5501/index.html
+http://127.0.0.1:5503/index.html
 ---
 
 ## 💡 Future Enhancements
